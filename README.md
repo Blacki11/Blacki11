@@ -6,7 +6,7 @@ Hola, como habras leido seguramente, soy Jeremias De Miguel, actualmente curso l
 ###  👨‍💻 Tecnologias 👨‍💻
 
 
-<img src="./img/react.jpg" alt="" width="100px" height="100px">
+<img src="./img/react.jpg" alt="" width="100px" height="10%">
 -ReactJS
 
 
