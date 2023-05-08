@@ -28,10 +28,10 @@ Hola, como habras leido seguramente, soy Jeremias De Miguel, actualmente curso l
 
 
 <img src="./img/express.jpg" alt="" width="30%" height="30%">
--Express
+- Express
 
 <img src="./img/redux.png" alt="" width="30%" height="30%">
--Redux
+- Redux
 
 ### ⌛ Actualmente me encuentro trabajando/Aprendiendo: ⌛
 
