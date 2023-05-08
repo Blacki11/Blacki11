@@ -8,9 +8,7 @@ Hola, como habras leido seguramente, soy Jeremias De Miguel, actualmente curso l
 
 <img src="./img/react.jpg" alt="" width="30%" height="30%">
 - ReactJS
-- <img src="./img/nodejs.png" alt="" width="30%" height="30%">
 - NodeJs
-- <img src="./img/sequelize.png" alt="" width="30%" height="30%">
 - Sequelize
 - PostgreSQL
 - FireBase
