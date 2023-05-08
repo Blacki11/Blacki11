@@ -5,32 +5,34 @@ Hola, como habras leido seguramente, soy Jeremias De Miguel, actualmente curso l
 
 ###  👨‍💻 Tecnologias 👨‍💻
 
-<img src="./img/react.jpg" alt="" width="300px">
 -ReactJS
+<img src="./img/react.jpg" alt="" width="100px" height="100px">
 
 
-<img src="" alt="" width="300px">
+
 -NodeJS
+<img src="./img/nodejs.png" alt="" width="300px">
 
 
-<img src="" alt="" width="300px">
 -Sequelize
+<img src="./img/sequelize.png" alt="" width="300px">
 
 
-<img src="" alt="" width="300px">
 -PostgreeSQL
+<img src="./img/postgre.png" alt="" width="300px">
 
 
-<img src="" alt="" width="300px">
 -FireBase
+<img src="./img/firebase.png" alt="" width="300px">
 
 
-<img src="" alt="" width="300px">
 -Express
+<img src="./img/express.jpg" alt="" width="300px">
 
 
-<img src="" alt="" width="300px">
 -Redux
+<img src="./img/redux.png" alt="" width="300px">
+
 
 ### ⌛ Actualmente me encuentro trabajando/Aprendiendo: ⌛
 
