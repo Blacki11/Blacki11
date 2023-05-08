@@ -27,8 +27,11 @@ Hola, como habras leido seguramente, soy Jeremias De Miguel, actualmente curso l
 
 ### Contacto
 Gmail: jeremiasescuela@gmail.com
+
 <a href="https://github.com/Blacki11](https://www.linkedin.com/in/jeremias-de-miguel-55b65125b/">LinkedIn<a>
+ 
 <a href="https://www.instagram.com/jeredm11/">Instagram<a>
+ 
 Twitter: Proximamente...
 
 
