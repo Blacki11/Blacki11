@@ -18,37 +18,30 @@ Hola, como habras leido seguramente, soy Jeremias De Miguel, actualmente curso l
 
 - Sequelize
 
+<img src="./img/sequelize.png" alt="" width="30%" height="30%">
+
 - PostgreSQL
+
+<img src="./img/postgre.png" alt="" width="30%" height="30%">
 
 - FireBase
 
-- Express
-
-- Redux
-
-
-
-
--NodeJS
-
-
-<img src="./img/sequelize.png" alt="" width="30%" height="30%">
--Sequelize
-
-
-<img src="./img/postgre.png" alt="" width="30%" height="30%">
--PostgreeSQL
-
-
 <img src="./img/firebase.png" alt="" width="30%" height="30%">
--FireBase
 
+- Express
 
 <img src="./img/express.jpg" alt="" width="30%" height="30%">
-- Express
+
+- Redux
 
 <img src="./img/redux.png" alt="" width="30%" height="30%">
-- Redux
+
+
+
+
+
+
+
 
 ### ⌛ Actualmente me encuentro trabajando/Aprendiendo: ⌛
 
