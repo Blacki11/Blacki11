@@ -43,7 +43,7 @@ Hola, como habras leido seguramente, soy Jeremias De Miguel, actualmente curso l
 
 
 
-### ⌛ Actualmente me encuentro trabajando/Aprendiendo: ⌛
+### ⌛ Actualmente me encuentro Desarollando/Aprendiendo: ⌛
 
 - Remodelando un poco el Proyecto Final de henry, detalles que son a mi gusto
 
