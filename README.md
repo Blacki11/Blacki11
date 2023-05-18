@@ -53,7 +53,7 @@ Hola, como habras leido seguramente, soy Jeremias De Miguel, hace poco me gradue
 
 ### 📞 Contacto 📞
 
-<a href="mailto:elcorreoquequieres@correo.com">Gmail<a>
+<a href="mailto:jeremiasdemiguel08@gmail.com">Gmail<a>
 
 <a href="https://github.com/Blacki11](https://www.linkedin.com/in/jeremias-de-miguel-55b65125b/">LinkedIn<a>
  
