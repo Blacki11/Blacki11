@@ -52,7 +52,8 @@ Hola, como habras leido seguramente, soy Jeremias De Miguel, hace poco me gradue
 - Mejorando mi ingles
 
 ### 📞 Contacto 📞
-Gmail: jeremiasescuela@gmail.com
+
+<a href="mailto:elcorreoquequieres@correo.com">Gmail<a>
 
 <a href="https://github.com/Blacki11](https://www.linkedin.com/in/jeremias-de-miguel-55b65125b/">LinkedIn<a>
  
