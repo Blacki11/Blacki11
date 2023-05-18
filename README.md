@@ -58,7 +58,7 @@ Gmail: jeremiasescuela@gmail.com
  
 <a href="https://www.instagram.com/jeredm11/">Instagram<a>
  
-Twitter: Proximamente...
+<a href="https://twitter.com/jeredm11">Twitter<a>
 
 
  
