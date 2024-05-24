@@ -46,9 +46,9 @@ Hola, como habras leido seguramente, soy Jeremias De Miguel, hace poco me gradue
 
 ### ⌛ Actualmente me encuentro Desarollando/Aprendiendo: ⌛
 
- - Remodelando un poco el Proyecto Final de henry, detalles que son a mi gusto
+ - Estudiando Tecnicatura en Programacion, en la Universidad Tecnologica Nacional(UTN), en Argentina
 
- - Aprendiendo TypeScript
+ - Aprendiendo Java
 
  - Mejorando mi ingles
 
